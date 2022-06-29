@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    background-image: url(../img/fondo_coldplay.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom;
+    margin: auto;
+}
+
+
+.INFORMACIÓN{
+    box-shadow: 0px 0px 90px rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    height: auto;
+    margin-top: 0;
+    width: 1000px;
+    background-color: rgba(27, 52, 108, 78%);
+    color: aliceblue;
+}
+
+
+.encabezado__noticia{
+    background-image: url("../img/portada_coldplay.jpg");
+    background-size: cover;
+    height: 500px;
+}
+
+
+.encabezado__noticia h1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 40px;
+    padding-top: 300px;
+    margin-left: 10px;
+}
+
+
+.encabezado__noticia h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+    font-size: 30px;
+    font-weight: 400;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: aliceblue;
+}
+
+
+span{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    color: rgb(255, 50, 237);
+}
+
+
+.autoría{
+    font-family: 'Raleway', sans-serif;
+    margin-left: 10px;
+    color: aliceblue;
+}
+
+
+.bajada__noticia{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: aliceblue;
+    border-left: 4px solid rgb(255, 50, 237);
+    padding-left: 10px;
+    margin: 10px;
+}
+
+
+.img__1{
+    height: auto;
+    width: 800px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+.párrafos__1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: aliceblue;
+}
+
+
+.cita{
+    box-shadow: 0px 0px 90px rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 20px;
+    margin: auto;
+    height: auto;
+    margin-top: 0;
+    width: 822px;
+    background-color: rgba(196,36,235, 66%);
+    color: black;
+}
+
+
+.lugar__fecha{
+    margin-left: 10px;
+}
+
+
+.párrafos__2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: aliceblue;
+}
+
+
+.img__2{
+    margin-left: 10px;
+    margin-right: 20px;
+    height: 294px;
+    float: right;
+}
+
+
+.setlist{
+    margin-left: 10px;
+}
+
+
+.canciones__1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    margin-left: 10px;
+    display: inline-block;
+    color: aliceblue;
+}
+
+
+.canciones__2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    margin-left: 10px;
+    display: inline-block;
+    color: aliceblue;
+}
+
+
+.párrafos__3{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: aliceblue;
+}
+
+
+.img__3{
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    height: 250px;
+    float: right;
+}
+
+
+.rectángulo__inferior{
+    background-color: rgb(255, 50, 237);
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+}
